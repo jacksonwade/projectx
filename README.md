@@ -1,2 +1,1 @@
-# pull-shark-practice
-Practice repo for PR automation
+dont ask
